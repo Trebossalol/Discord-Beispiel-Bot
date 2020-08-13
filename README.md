@@ -1,2 +1,1 @@
-# Discord-Example-Bot
-Kostenloses, sehr einfaches Discord Bot Beispiel
+# Discord Bot Beispiel \[für Anfänger empfohlen\]
