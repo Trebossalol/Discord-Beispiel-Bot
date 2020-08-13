@@ -1,0 +1,29 @@
+'config.ini' => Einstellungen für den Bot
+token - Dein Bot Token
+prefix - Dein Prefix für den Bot, dieses Symbol muss vor dem Befehl stehen(in Discord)
+caseSensitive - Groß- und Kleinschreibung mit einbeziehen ?
+
+'actions.ini' => Befehle für den Bot
+Um einen Befehl zu erstellen, copy-paste folgendes in die Datei:
+
+
+[command:]
+msg=
+
+
+Hinter 'comand:' schreibst du deinen Namen für den Befehl,
+hinter 'msg=' schreibst du deine Nachricht die gesendet werden soll.
+
+Beispiel für actions.ini
+
+
+[command:hi]
+msg=hey, wie geht es dir ?
+
+[command:hilfe]
+msg=Meine Befehle: **hi**
+
+
+Diese Vorlage ist NICHT getestet worden, falls es Fehler gibt melde dich über Discord: https://discord.gg/d8AWtBW
+
+Dies ist eine Vorlage für einen ganz simplen Bot, er kann nicht viel!
