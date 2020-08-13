@@ -1,3 +1,14 @@
+BOT STARTEN:
+
+Klicke in deinem Datei-Explorer auf eine freie Stelle in der Pfadleiste, gebe 'cmd' ein und drücke [enter].
+In dem CMD-Fenster gibst du jetzt 'npm run start' ein. Der Bot sollte nun, wenn du alles richtig gemacht hast auf Discord online sein! 
+
+!!!!!!! In dem CMD-Fenster MUSST du folgenden Befehl eingegeben haben: 'npm i', dies lädt alle benötigten Bibliotheken, wie Discord.js herunter.
+
+
+DATEIEN:
+
+
 'config.ini' => Einstellungen für den Bot
 token - Dein Bot Token
 prefix - Dein Prefix für den Bot, dieses Symbol muss vor dem Befehl stehen(in Discord)
