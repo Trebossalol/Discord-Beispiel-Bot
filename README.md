@@ -1,5 +1,7 @@
 # Discord Bot Beispiel \[für Anfänger empfohlen\] \[13.08.2020\]
 
+###  Falls noch nicht getan, lade Nodejs herunter: https://nodejs.org/en/, diese Bibliothek ist für Discord.js benötigt!
+
 ###  Starte direkt durch:
 1.   Zuerst musst du einen Bot bei Discord erstellen. Melde dich dazu im Browser (discord.com) mit deinem Discord-Account an. Zunächst gehst du auf die 
      Discord-Entwickler-Homepage (https://discord.com/developers/applications) und erstellst mit dem Knopf oben rechts 'New Appliaction' einen Bot. 
@@ -21,3 +23,4 @@
 8.   Öffne den Link, wähle den Server aus, wo der Bot später laufen soll, und lade den Bot auf deinen Server ein!
 
 ## Soweit zur Installation und zum Einladen.. In dem Verzeichnis ist eine Datei, namens 'help.txt', sie hilft dir weitere Änderungen vorzunehmen.
+
